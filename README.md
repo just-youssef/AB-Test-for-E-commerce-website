@@ -1,7 +1,7 @@
 # A/B-Testing
 
 ## Project Purpose:
-> The main purpose of the project is running an A/B test run by an e-commerce website.
+> The main purpose of the project is running an A/B test for an e-commerce website.
 
 ## Project Details:
 > The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.
